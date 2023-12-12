@@ -20,14 +20,13 @@ const hideToggler = () => {
     <div class="container">
       <div class="d-flex justify-content-between topbar">
         <div class="top-info">
-          <small class="me-3 text-white-50"><a><i class="fas fa-map-marker-alt me-2 text-secondary"></i></a>Ejisu-Fumesua, AK-218-3548</small>
-          <small class="me-3 text-white-50"><a><i class="fas fa-envelope me-2 text-secondary"></i></a>Email@Example.com</small>
+          <small class="me-3 text-white-50"><a><i class="fas fa-map-marker-alt me-2 text-white"></i></a>Ejisu-Fumesua, AK-218-3548</small>
+          <small class="me-3 text-white-50"><a><i class="fas fa-envelope me-2 text-white"></i></a>Email@Example.com</small>
         </div>
         <div id="note" class="text-white d-none d-xl-flex"><small>Let's help you to expand your Business</small></div>
         <div class="top-link">
           <a href="" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-facebook-f text-primary"></i></a>
           <a href="" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-twitter text-primary"></i></a>
-          <a href="" class="bg-light nav-fill btn btn-sm-square rounded-circle"><i class="fab fa-instagram text-primary"></i></a>
           <a href="" class="bg-light nav-fill btn btn-sm-square rounded-circle me-0"><i class="fab fa-linkedin-in text-primary"></i></a>
         </div>
       </div>
@@ -40,7 +39,7 @@ const hideToggler = () => {
     <div class="container">
       <nav class="navbar navbar-dark navbar-expand-lg py-0">
           <router-link :to="{name: 'home'}" class="navbar-brand" @click="hideToggler">
-            <h1 class="text-white fw-bold d-block">High<span class="text-secondary">Tech</span> </h1>
+            <h1 class="text-white fw-bold d-block">My<span class="text-secondary">Team</span> </h1>
           </router-link>
         <div class="navbar-toggler me-0 shadow-none border-0" data-bs-toggle="collapse"
                 data-bs-target="#navbarCollapse"
@@ -73,7 +72,7 @@ const hideToggler = () => {
           </div>
           <div class="d-flex flex-column pe-4 border-end">
             <span class="text-white-50">Have any questions?</span>
-            <span class="text-white">Call: + 233 243 321 512</span>
+            <span class="text-white">Call: +233 243 321 512</span>
           </div>
 
         </div>
@@ -92,16 +91,15 @@ const hideToggler = () => {
       <div class="row g-5">
         <div class="col-lg-4 col-md-6">
           <a href="">
-            <h1 class="text-white fw-bold d-block">High<span class="text-secondary">Tech</span> </h1>
+            <h1 class="text-white fw-bold d-block">My<span class="text-secondary">Team</span> </h1>
           </a>
           <p class="mt-4 text-light">
             As a smart and agile software development agency, we custom engineer sophisticated
-            digital solutions, that enable our clients to stay ahead of the game
+            digital solutions, that enable our clients to stay ahead of the game.
           </p>
           <div class="d-flex hightech-link">
             <a href="" class="btn-light nav-fill btn btn-square rounded-circle me-2"><i class="fab fa-facebook-f text-primary"></i></a>
             <a href="" class="btn-light nav-fill btn btn-square rounded-circle me-2"><i class="fab fa-twitter text-primary"></i></a>
-            <a href="" class="btn-light nav-fill btn btn-square rounded-circle me-2"><i class="fab fa-instagram text-primary"></i></a>
             <a href="" class="btn-light nav-fill btn btn-square rounded-circle me-0"><i class="fab fa-linkedin-in text-primary"></i></a>
           </div>
         </div>

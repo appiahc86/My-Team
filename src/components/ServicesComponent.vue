@@ -15,10 +15,9 @@
           <div class="services-item bg-light">
             <div class="p-4 text-center services-content">
               <div class="services-content-icon">
-                <i class="fa fa-code fa-7x mb-4 text-primary"></i>
+                <img src="/img/services/wd.png" alt="cctv" class="fa-7x mb-4 img-fluid">
                 <h4 class="mb-3">Web Design</h4>
                 <p class="mb-4">Lorem ipsum dolor sit amet elit. Sed efficitur quis purus ut interdum. Aliquam dolor eget urna ultricies tincidunt.</p>
-                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
               </div>
             </div>
           </div>
@@ -27,10 +26,9 @@
           <div class="services-item bg-light">
             <div class="p-4 text-center services-content">
               <div class="services-content-icon">
-                <i class="fa fa-file-code fa-7x mb-4 text-primary"></i>
+                <img src="/img/services/dev.png" alt="wd" class="fa-7x mb-4 img-fluid">
                 <h4 class="mb-3">Web Development</h4>
                 <p class="mb-4">Lorem ipsum dolor sit amet elit. Sed efficitur quis purus ut interdum. Aliquam dolor eget urna ultricies tincidunt.</p>
-                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
               </div>
             </div>
           </div>
@@ -39,10 +37,20 @@
           <div class="services-item bg-light">
             <div class="p-4 text-center services-content">
               <div class="services-content-icon">
-                <i class="fa fa-external-link-alt fa-7x mb-4 text-primary"></i>
+                <img src="/img/services/ux.png" alt="ux" class="fa-7x mb-4 img-fluid">
                 <h4 class="mb-3">UI/UX Design</h4>
                 <p class="mb-4">Lorem ipsum dolor sit amet elit. Sed efficitur quis purus ut interdum. Aliquam dolor eget urna ultricies tincidunt.</p>
-                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+          <div class="services-item bg-light">
+            <div class="p-4 text-center services-content">
+              <div class="services-content-icon">
+                <img src="/img/services/networking.png" alt="networking" class="fa-7x mb-4 img-fluid">
+                <h4 class="mb-3">Computer Networking</h4>
+                <p class="mb-4">Lorem ipsum dolor sit amet elit. Sed efficitur quis purus ut interdum. Aliquam dolor eget urna ultricies tincidunt.</p>
               </div>
             </div>
           </div>
@@ -51,10 +59,9 @@
           <div class="services-item bg-light">
             <div class="p-4 text-center services-content">
               <div class="services-content-icon">
-                <i class="fas fa-user-secret fa-7x mb-4 text-primary"></i>
-                <h4 class="mb-3">Web Cecurity</h4>
+                <img src="/img/services/gd.png" alt="gd" class="fa-7x mb-4 img-fluid">
+                <h4 class="mb-3">Graphic Designing</h4>
                 <p class="mb-4">Lorem ipsum dolor sit amet elit. Sed efficitur quis purus ut interdum. Aliquam dolor eget urna ultricies tincidunt.</p>
-                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
               </div>
 
             </div>
@@ -64,26 +71,14 @@
           <div class="services-item bg-light">
             <div class="p-4 text-center services-content">
               <div class="services-content-icon">
-                <i class="fa fa-envelope-open fa-7x mb-4 text-primary"></i>
-                <h4 class="mb-3">Digital Marketing</h4>
+                <img src="/img/services/cctv.png" alt="cctv" class="fa-7x mb-4 img-fluid">
+                <h4 class="mb-3">CCTV Installation</h4>
                 <p class="mb-4">Lorem ipsum dolor sit amet elit. Sed efficitur quis purus ut interdum. Aliquam dolor eget urna ultricies tincidunt.</p>
-                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
               </div>
             </div>
           </div>
         </div>
-        <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
-          <div class="services-item bg-light">
-            <div class="p-4 text-center services-content">
-              <div class="services-content-icon">
-                <i class="fas fa-laptop fa-7x mb-4 text-primary"></i>
-                <h4 class="mb-3">Programming</h4>
-                <p class="mb-4">Lorem ipsum dolor sit amet elit. Sed efficitur quis purus ut interdum. Aliquam dolor eget urna ultricies tincidunt.</p>
-                <a href="" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
-              </div>
-            </div>
-          </div>
-        </div>
+
       </div>
     </div>
   </div>

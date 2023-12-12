@@ -53,7 +53,7 @@ onBeforeRouteLeave(() => {
           <div class="team-content">
             <div class="team-img-icon">
               <div class="team-img rounded-circle">
-                <img src="/img/team-1.jpg" class="img-fluid w-100 rounded-circle" alt="">
+                <img src="/img/team/Emmanuel.webp" class="img-fluid w-100 rounded-circle" alt="">
               </div>
               <div class="team-name text-center py-3">
                 <h4 class="">Emmanuel Essien</h4>
@@ -71,11 +71,11 @@ onBeforeRouteLeave(() => {
           <div class="team-content">
             <div class="team-img-icon">
               <div class="team-img rounded-circle">
-                <img src="/img/team-2.jpg" class="img-fluid w-100 rounded-circle" alt="">
+                <img src="/img/team/Benard.webp" class="img-fluid w-100 rounded-circle" alt="">
               </div>
               <div class="team-name text-center py-3">
-                <h4 class="">Full Name</h4>
-                <p class="m-0">Designation</p>
+                <h4 class="">BERNARD ARHIA</h4>
+                <p class="m-0">Fullstack Developer</p>
               </div>
               <div class="team-icon d-flex justify-content-center pb-4">
                 <a class="btn btn-square btn-tert text-white rounded-circle m-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -89,11 +89,11 @@ onBeforeRouteLeave(() => {
           <div class="team-content">
             <div class="team-img-icon">
               <div class="team-img rounded-circle">
-                <img src="/img/team-3.jpg" class="img-fluid w-100 rounded-circle" alt="">
+                <img src="/img/team/Angie.webp" class="img-fluid w-100 rounded-circle" alt="">
               </div>
               <div class="team-name text-center py-3">
-                <h4 class="">Full Name</h4>
-                <p class="m-0">Designation</p>
+                <h4 class="">ANGELINE NYEPEN</h4>
+                <p class="m-0">UI/UX Designer</p>
               </div>
               <div class="team-icon d-flex justify-content-center pb-4">
                 <a class="btn btn-square btn-tert text-white rounded-circle m-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -107,11 +107,65 @@ onBeforeRouteLeave(() => {
           <div class="team-content">
             <div class="team-img-icon">
               <div class="team-img rounded-circle">
-                <img src="/img/team-4.jpg" class="img-fluid w-100 rounded-circle" alt="">
+                <img src="/img/team/Charles.webp" class="img-fluid w-100 rounded-circle" alt="">
               </div>
               <div class="team-name text-center py-3">
-                <h4 class="">Full Name</h4>
-                <p class="m-0">Designation</p>
+                <h4 class="">CHARLES OSEI KWADWO</h4>
+                <p class="m-0">Back-End Developer</p>
+              </div>
+              <div class="team-icon d-flex justify-content-center pb-4">
+                <a class="btn btn-square btn-tert text-white rounded-circle m-1" href=""><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-square btn-tert text-white rounded-circle m-1" href=""><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-square btn-tert text-white rounded-circle m-1" href=""><i class="fab fa-linkedin-in"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="rounded team-item">
+          <div class="team-content">
+            <div class="team-img-icon">
+              <div class="team-img rounded-circle">
+                <img src="/img/team/Richard.webp" class="img-fluid w-100 rounded-circle" alt="">
+              </div>
+              <div class="team-name text-center py-3">
+                <h4 class="">RICHARD OSEI YAW</h4>
+                <p class="m-0">Graphic Designer</p>
+              </div>
+              <div class="team-icon d-flex justify-content-center pb-4">
+                <a class="btn btn-square btn-tert text-white rounded-circle m-1" href=""><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-square btn-tert text-white rounded-circle m-1" href=""><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-square btn-tert text-white rounded-circle m-1" href=""><i class="fab fa-linkedin-in"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="rounded team-item">
+          <div class="team-content">
+            <div class="team-img-icon">
+              <div class="team-img rounded-circle">
+                <img src="/img/team/Collins1.webp" class="img-fluid w-100 rounded-circle" alt="">
+              </div>
+              <div class="team-name text-center py-3">
+                <h4 class="">COLLINS APPIAH</h4>
+                <p class="m-0">Network Engineer</p>
+              </div>
+              <div class="team-icon d-flex justify-content-center pb-4">
+                <a class="btn btn-square btn-tert text-white rounded-circle m-1" href=""><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-square btn-tert text-white rounded-circle m-1" href=""><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-square btn-tert text-white rounded-circle m-1" href=""><i class="fab fa-linkedin-in"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="rounded team-item">
+          <div class="team-content">
+            <div class="team-img-icon">
+              <div class="team-img rounded-circle">
+                <img src="/img/team/Ellen.webp" class="img-fluid w-100 rounded-circle" alt="">
+              </div>
+              <div class="team-name text-center py-3">
+                <h4 class="">ELLEN ADDAI</h4>
+                <p class="m-0">Project Administrator</p>
               </div>
               <div class="team-icon d-flex justify-content-center pb-4">
                 <a class="btn btn-square btn-tert text-white rounded-circle m-1" href=""><i class="fab fa-facebook-f"></i></a>

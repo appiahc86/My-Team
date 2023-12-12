@@ -18,7 +18,7 @@ import FactsComponent from "@/components/FactsComponent.vue";
     <div id="carouselId" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner" role="listbox">
         <div class="carousel-item active">
-          <img src="/img/carousel-1.jpg" class="img-fluid" alt="First slide">
+          <img src="/img/carousel2.webp" class="img-fluid w-100" alt="First slide">
           <div class="carousel-caption">
             <div class="container carousel-content">
 <!--              <h6 class="text-white h4 animated fadeInUp d-none d-md-inline">We Help You Grow</h6>-->
@@ -43,7 +43,7 @@ import FactsComponent from "@/components/FactsComponent.vue";
           </div>
         </div>
         <div class="carousel-item">
-          <img src="/img/carousel-2.jpg" class="img-fluid" alt="Second slide">
+          <img src="/img/carousel1.webp" class="img-fluid w-100" alt="Second slide">
           <div class="carousel-caption">
             <div class="container carousel-content">
 <!--              <h6 class="text-white h4 animated fadeInUp d-none d-md-inline">Best IT Solutions</h6>-->
@@ -87,14 +87,46 @@ import FactsComponent from "@/components/FactsComponent.vue";
 
 
   <!-- About Start -->
-  <AboutComponent />
+  <div class="container-fluid py-5 my-5">
+    <div class="container py-5">
+      <div class="row g-5">
+        <div class="col-lg-5 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".3s">
+          <div class="h-100 position-relative">
+            <img src="/img/about2.webp" class="img-fluid w-75 rounded" alt="" style="margin-bottom: 25%;">
+            <div class="position-absolute w-75" style="top: 25%; left: 25%;">
+              <img src="/img/about1.webp" class="img-fluid w-100 rounded" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-7 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".5s">
+          <h5 class="text-muted">About Us</h5>
+          <h1 class="mb-4">Quality & Experience IT Solution Company</h1>
+          <p>
+            We put together a bunch of passionate minds to transform your visions
+            into reality imparting an awesome digital experience for your
+            users. From website design, development, scalable mobile apps to SaaS platforms,
+            the solution we engineer accelerate efficiency and fuel growth for our clients.
+          </p>
+          <p class="mb-4">
+            We are committed to achieving and pushing the level of
+            performance at all times. Leveraging the power of technology,
+            we deliver end-to-end solutions for multi-million funded
+            start-ups to small and medium enterprises. Our office presence at
+            Ejisu-Fumesua, GPS Address: AK-218-3548, Ghana.
+          </p>
+          <router-link :to="{name: 'about'}" class="btn btn-teal rounded-pill px-5 py-3 text-white border-0">
+            More Details
+          </router-link>
+        </div>
+      </div>
+    </div>
+  </div>
   <!-- About End -->
 
 
   <!-- Services Start -->
   <ServicesComponent />
   <!-- Services End -->
-
 
   <!-- Project Start -->
   <ProjectsComponent />
@@ -103,11 +135,6 @@ import FactsComponent from "@/components/FactsComponent.vue";
   <!-- Team Start -->
   <TeamComponent />
   <!-- Team End -->
-
-  <!-- Testimonial Start -->
-  <TestimonialComponent />
-  <!-- Testimonial End -->
-
 
   <!-- Contact Start -->
  <ContactsComponent />
