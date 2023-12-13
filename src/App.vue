@@ -98,9 +98,9 @@ const hideToggler = () => {
             digital solutions, that enable our clients to stay ahead of the game.
           </p>
           <div class="d-flex hightech-link">
-            <a href="" class="btn-light nav-fill btn btn-square rounded-circle me-2"><i class="fab fa-facebook-f text-primary"></i></a>
-            <a href="" class="btn-light nav-fill btn btn-square rounded-circle me-2"><i class="fab fa-twitter text-primary"></i></a>
-            <a href="" class="btn-light nav-fill btn btn-square rounded-circle me-0"><i class="fab fa-linkedin-in text-primary"></i></a>
+            <a href="#" class="btn-light nav-fill btn btn-square rounded-circle me-2"><i class="fab fa-facebook-f text-primary"></i></a>
+            <a href="#" class="btn-light nav-fill btn btn-square rounded-circle me-2"><i class="fab fa-twitter text-primary"></i></a>
+            <a href="#" class="btn-light nav-fill btn btn-square rounded-circle me-0"><i class="fab fa-linkedin-in text-primary"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
@@ -115,9 +115,9 @@ const hideToggler = () => {
         <div class="col-lg-4 col-md-6">
           <a class="h3 my-text">Contact Us</a>
           <div class="text-white mt-4 d-flex flex-column contact-link">
-            <a href="#" class="pb-3 text-light border-bottom border-primary"><i class="fas fa-map-marker-alt text-muted me-2"></i> Ejisu-Fumesua, AK-218-3548</a>
+            <a class="pb-3 text-light border-bottom border-primary"><i class="fas fa-map-marker-alt text-muted me-2"></i> Ejisu-Fumesua, AK-218-3548</a>
             <a href="tel:233243321512" class="py-3 text-light border-bottom border-primary"><i class="fas fa-phone-alt text-muted me-2"></i> +233 243 321 512</a>
-            <a href="#" class="py-3 text-light border-bottom border-primary"><i class="fas fa-envelope text-muted me-2"></i> info@exmple.con</a>
+            <a class="py-3 text-light border-bottom border-primary"><i class="fas fa-envelope text-muted me-2"></i> info@exmple.con</a>
           </div>
         </div>
       </div>

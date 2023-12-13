@@ -24,7 +24,7 @@ defineProps({
           <li class="breadcrumb-item">
             <router-link :to="{name: 'home'}" class="text-decoration-none text-white">Home</router-link>
           </li>
-          <li class="breadcrumb-item" aria-current="page">{{ page }}</li>
+          <li class="breadcrumb-item text-white-50" aria-current="page">{{ page }}</li>
         </ol>
       </nav>
     </div>

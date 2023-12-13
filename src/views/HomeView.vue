@@ -1,12 +1,23 @@
 <script setup>
 
 import ContactsComponent from "@/components/ContactsComponent.vue";
-import TestimonialComponent from "@/components/TestimonialComponent.vue";
 import TeamComponent from "@/components/TeamComponent.vue";
 import ProjectsComponent from "@/components/ProjectsComponent.vue";
 import ServicesComponent from "@/components/ServicesComponent.vue";
-import AboutComponent from "@/components/AboutComponent.vue";
 import FactsComponent from "@/components/FactsComponent.vue";
+import {onMounted} from "vue";
+
+
+onMounted(() => {
+  const myCarousel = document.querySelector('#carouselId')
+  const carousel = new bootstrap.Carousel(myCarousel, {
+    interval: 4000,
+    wrap: true
+  })
+  carousel.cycle();
+
+})
+
 
 </script>
 
