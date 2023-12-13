@@ -35,7 +35,7 @@ const hideToggler = () => {
   <!-- Topbar End -->
 
   <!-- Navbar Start -->
-  <div class="container-fluid navbar-teal">
+  <div class="container-fluid navbar-teal ">
     <div class="container">
       <nav class="navbar navbar-dark navbar-expand-lg py-0">
           <router-link :to="{name: 'home'}" class="navbar-brand" @click="hideToggler">
@@ -91,7 +91,7 @@ const hideToggler = () => {
       <div class="row g-5">
         <div class="col-lg-4 col-md-6">
           <a href="">
-            <h1 class="text-white fw-bold d-block">My<span class="text-secondary">Team</span> </h1>
+            <h1 class="text-white fw-bold d-block">My<span class="my-text">Team</span> </h1>
           </a>
           <p class="mt-4 text-light">
             As a smart and agile software development agency, we custom engineer sophisticated
@@ -146,16 +146,16 @@ const hideToggler = () => {
   background: rgba(13, 73, 86, 0.78);
 }
   .my-text{
-    background: -webkit-linear-gradient(rgba(135, 18, 145, 0.84), #ece3e3);
+    background: -webkit-linear-gradient(rgba(18, 62, 145, 0.84), rgba(148, 161, 246, 0.77));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
   .navbar-teal{
-    background: linear-gradient(rgba(135, 18, 145, 0.84), #e094f6);
+    background: linear-gradient(rgba(18, 62, 145, 0.84), rgba(148, 161, 246, 0.77));
   }
 
   .btn-teal{
-    background: linear-gradient(rgba(135, 18, 145, 0.84), #e094f6) !important;
+    background: linear-gradient(rgba(18, 62, 145, 0.84), rgba(148, 161, 246, 0.77)) !important;
     color: white !important;
   }
 }

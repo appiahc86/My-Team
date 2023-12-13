@@ -28,9 +28,9 @@
         <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay=".5s">
           <div class="project-item">
             <div class="project-img">
-              <img src="/img/projects/easysch.webp" class="img-fluid w-100 rounded" alt="">
+              <img src="/img/projects/eazysch.webp" class="img-fluid w-100 rounded" alt="">
               <div class="project-content">
-                <a href="https://www.easysch.com/" class="text-center" target="_blank">
+                <a href="https://www.eazysch.com" class="text-center" target="_blank">
                   <h4 class="text-secondary">Web Development</h4>
                   <p class="m-0 text-white">School Management App</p>
                 </a>

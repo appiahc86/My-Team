@@ -21,7 +21,6 @@ import FactsComponent from "@/components/FactsComponent.vue";
           <img src="/img/carousel2.webp" class="img-fluid w-100" alt="First slide">
           <div class="carousel-caption">
             <div class="container carousel-content">
-<!--              <h6 class="text-white h4 animated fadeInUp d-none d-md-inline">We Help You Grow</h6>-->
               <br class="d-md-none">
               <h1 class="text-white display-1 mb-2 mb-md-4 animated fadeInRight">Fueling Businesses With Technology!</h1>
               <p class="mb-2 mb-md-4 text-white fs-5 animated fadeInDown">
@@ -46,7 +45,6 @@ import FactsComponent from "@/components/FactsComponent.vue";
           <img src="/img/carousel1.webp" class="img-fluid w-100" alt="Second slide">
           <div class="carousel-caption">
             <div class="container carousel-content">
-<!--              <h6 class="text-white h4 animated fadeInUp d-none d-md-inline">Best IT Solutions</h6>-->
               <br class="d-md-none">
               <h1 class="text-white display-1 mb-2 mb-md-4 animated fadeInLeft">Your Technology Partner!</h1>
               <p class="mb-2 mb-md-4 text-white fs-5 animated fadeInDown">
