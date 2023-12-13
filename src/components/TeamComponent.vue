@@ -93,7 +93,7 @@ onBeforeRouteLeave(() => {
               </div>
               <div class="team-name text-center py-3">
                 <h4 class="">ANGELINE NYEPEN</h4>
-                <p class="m-0">UI/UX Designer</p>
+                <p class="m-0">Web Developer</p>
               </div>
               <div class="team-icon d-flex justify-content-center pb-4">
                 <a class="btn btn-square btn-tert text-white rounded-circle m-1" href=""><i class="fab fa-facebook-f"></i></a>

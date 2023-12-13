@@ -21,7 +21,7 @@ const hideToggler = () => {
       <div class="d-flex justify-content-between topbar">
         <div class="top-info">
           <small class="me-3 text-white-50"><a><i class="fas fa-map-marker-alt me-2 text-white"></i></a>Ejisu-Fumesua, AK-218-3548</small>
-          <small class="me-3 text-white-50"><a><i class="fas fa-envelope me-2 text-white"></i></a>Email@Example.com</small>
+          <small class="me-3 text-white-50"><a><i class="fas fa-envelope me-2 text-white"></i></a>oceangroupgh@gmail.com</small>
         </div>
         <div id="note" class="text-white d-none d-xl-flex"><small>Let's help you to expand your Business</small></div>
         <div class="top-link">
@@ -39,7 +39,7 @@ const hideToggler = () => {
     <div class="container">
       <nav class="navbar navbar-dark navbar-expand-lg py-0">
           <router-link :to="{name: 'home'}" class="navbar-brand" @click="hideToggler">
-            <h1 class="text-white fw-bold d-block">My<span class="text-secondary">Team</span> </h1>
+            <h1 class="text-white fw-bold d-block">OG<span class="text-secondary"> GH</span> </h1>
           </router-link>
         <div class="navbar-toggler me-0 shadow-none border-0" data-bs-toggle="collapse"
                 data-bs-target="#navbarCollapse"
@@ -91,7 +91,7 @@ const hideToggler = () => {
       <div class="row g-5">
         <div class="col-lg-4 col-md-6">
           <a href="">
-            <h1 class="text-white fw-bold d-block">My<span class="my-text">Team</span> </h1>
+            <h1 class="text-white fw-bold d-block">Ocean Group<span class="my-text"> GH</span> </h1>
           </a>
           <p class="mt-4 text-light">
             As a smart and agile software development agency, we custom engineer sophisticated
@@ -117,14 +117,14 @@ const hideToggler = () => {
           <div class="text-white mt-4 d-flex flex-column contact-link">
             <a class="pb-3 text-light border-bottom border-primary"><i class="fas fa-map-marker-alt text-muted me-2"></i> Ejisu-Fumesua, AK-218-3548</a>
             <a href="tel:233243321512" class="py-3 text-light border-bottom border-primary"><i class="fas fa-phone-alt text-muted me-2"></i> +233 243 321 512</a>
-            <a class="py-3 text-light border-bottom border-primary"><i class="fas fa-envelope text-muted me-2"></i> info@exmple.con</a>
+            <a class="py-3 text-light border-bottom border-primary"><i class="fas fa-envelope text-muted me-2"></i> oceangroupgh@gmail.com</a>
           </div>
         </div>
       </div>
       <hr class="text-light mt-5 mb-4">
       <div class="row">
         <div class="col-md-6 text-center text-md-start">
-          <span class="text-light"><a href="#" class="text-secondary"><i class="fas fa-copyright text-muted me-2"></i>Your Site Name</a>, All right reserved.</span>
+          <span class="text-light"><a href="#" class="text-primary"><i class="fas fa-copyright text-muted me-2"></i>Ocean Group GH</a>, All right reserved.</span>
         </div>
 
       </div>

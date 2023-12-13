@@ -64,7 +64,7 @@ const sendMail = async () => {
               </div>
               <div class="ms-3">
                 <h4 class="text-primary">Email Us</h4>
-                <a class="h5" href="mailto:info@example.com" target="_blank">info@example.com</a>
+                <a class="h5" href="mailto:oceangroupgh@gmail.com" target="_blank">oceangroupgh@gmail.com</a>
               </div>
             </div>
           </div>
