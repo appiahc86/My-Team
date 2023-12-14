@@ -39,7 +39,7 @@ const hideToggler = () => {
     <div class="container">
       <nav class="navbar navbar-dark navbar-expand-lg py-0">
           <router-link :to="{name: 'home'}" class="navbar-brand" @click="hideToggler">
-            <h1 class="text-white fw-bold d-block">OG<span class="text-secondary"> GH</span> </h1>
+            <img src="/logo.png" alt="logo" height="50" width="70">
           </router-link>
         <div class="navbar-toggler me-0 shadow-none border-0" data-bs-toggle="collapse"
                 data-bs-target="#navbarCollapse"
