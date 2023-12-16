@@ -11,7 +11,7 @@ const sendMail = async () => {
       return alert('Please Enter a valid email address');
     }
     sendingMail.value = true;
-    await emailjs.sendForm('service_htz4qfg', 'contact_form', myForm.value, 'QuYtDzfIbQkBjBtnD');
+    await emailjs.sendForm('service_iwnaxhx', 'template_yyxwfwd', myForm.value, 'P_X6cRhkefY4LCVkn');
     myForm.value.reset();
     alert('Your Message has been sent');
   }catch (e){
